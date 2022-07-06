@@ -1,0 +1,42 @@
+.card{
+    background-color: rgb(170, 243, 170);
+    width: 330px;
+    color: black;
+    text-align: center;
+    border-radius: 19px;
+    padding: 20px;
+
+}
+
+.card-top{
+    margin-bottom: 24px;
+}
+
+.card-price{
+    margin-bottom: 34px;
+    font-size: 50px;
+    font-family: 'Cinzel', serif;
+}
+
+.card-text{
+    margin-bottom: 20px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.card-btn{
+    background-color: rgb(241, 230, 99);
+    text-decoration: none;
+    color:purple;
+    display: block;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-radius: 25px;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Indie Flower', cursive;
+}
+
+.card-btn:hover{
+    background-color: gold;
+    color: dodgerblue;
+}
